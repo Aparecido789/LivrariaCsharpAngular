@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -25,6 +26,11 @@ namespace LivrariaApx.Controllers
 
             _context.SaveChanges();
             
+        }
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Produto>>> GetProdutos()
+        {
+            return  _context.todoProducts.ToList();
         }
     }
 }
