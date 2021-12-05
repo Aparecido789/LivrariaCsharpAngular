@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UXeUEWd1NY4gmezz+sgylaBFP+UwLS1as026H5f8IN4L65aOS4twJicIdOfBhWMo2+688SBAZqLMgVKiurz4Jw==",
+  "dgSpecHash": "GOMzRjdvXrTcJeRKKfobRHNsqkHoT72SX+GBXAnsDqajXpeNYzfclXw61sxXJLOPNDrgJT5aj494cnrOKL3ANQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Chico s\\Music\\GitHub\\LivrariaCsharpAngular\\LivrariaApx\\LivrariaApx\\LivrariaApx.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\Chico s\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.9\\microsoft.entityframeworkcore.5.0.9.nupkg.sha512",
     "C:\\Users\\Chico s\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.9\\microsoft.entityframeworkcore.abstractions.5.0.9.nupkg.sha512",
     "C:\\Users\\Chico s\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.9\\microsoft.entityframeworkcore.analyzers.5.0.9.nupkg.sha512",
+    "C:\\Users\\Chico s\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.9\\microsoft.entityframeworkcore.inmemory.5.0.9.nupkg.sha512",
     "C:\\Users\\Chico s\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Chico s\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\Chico s\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",

@@ -45,3 +45,4 @@ C:\Users\Chico s\Music\GitHub\LivrariaCsharpAngular\LivrariaApx\LivrariaApx\obj\
 C:\Users\Chico s\Music\GitHub\LivrariaCsharpAngular\LivrariaApx\LivrariaApx\obj\Debug\netcoreapp3.1\LivrariaApx.dll
 C:\Users\Chico s\Music\GitHub\LivrariaCsharpAngular\LivrariaApx\LivrariaApx\obj\Debug\netcoreapp3.1\LivrariaApx.pdb
 C:\Users\Chico s\Music\GitHub\LivrariaCsharpAngular\LivrariaApx\LivrariaApx\obj\Debug\netcoreapp3.1\LivrariaApx.genruntimeconfig.cache
+C:\Users\Chico s\Music\GitHub\LivrariaCsharpAngular\LivrariaApx\LivrariaApx\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
